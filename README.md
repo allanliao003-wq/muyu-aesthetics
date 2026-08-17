@@ -2,10 +2,17 @@
 
 台中沙鹿「莯遇美學」全身SPA／岩盤浴／身體調理館的品牌形象官網。純靜態網頁（HTML / CSS / JavaScript），沒有使用任何前端框架，做法比照 0度造型工作室官網。
 
+## 線上連結
+
+| 項目 | 網址 |
+|---|---|
+| 正式網站 | https://muyu-aesthetics.vercel.app |
+| GitHub Repo | https://github.com/allanliao003-wq/muyu-aesthetics |
+
 ## 技術架構
 
 - 純 HTML + CSS + JavaScript，無框架、無建置流程、無 npm 依賴
-- 部署方式待定，建議與 0度造型工作室相同：Vercel（免費方案）
+- 部署：Vercel，已連接 GitHub repo，push 到 `main` 分支會自動重新部署上線
 
 ## 檔案結構
 
